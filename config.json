@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuender",
+        "uuid": 2721180,
+        "checksum": "h0wj7r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
